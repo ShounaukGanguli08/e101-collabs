@@ -11,4 +11,3 @@ def factorial(n):
         return result
 
 
-print(factorial(5))  # returns 120
